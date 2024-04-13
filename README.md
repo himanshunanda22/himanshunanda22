@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi, I'm Himanshu 👋
+🧑‍💻 I am currentl a pref-final year student in B.Tech porgram at PESU.<br/>
+📑 I enjoy solving mathematical questions and delving into the sciences behind coding and mathematics.<br/>
+📬 You can reach me at himanshunanda2002@gmail.com.<br/>
+🧑‍💻 I am currently workin on my skills in cybersecurity while polishing my knowledge in machine learning and data structures and algorithms.<br/>
 
+[![Himanshu's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=himanshunanda22&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/himanshunanda22/github-readme-stats#gh-dark-mode-only)
+[![Himanshu's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=himanshunanda22&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/himanshunanda22/github-readme-stats#gh-light-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshunanda22&layout=compact)
 <!--
 **himanshunanda22/himanshunanda22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
