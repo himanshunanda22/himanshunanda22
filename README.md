@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 yo yo yo:
 ### Hi, I'm Himanshu 👋<br>🧑‍💻 I am currently pursuing B.Tech at PESU.<br/><br>📑 I enjoy solving mathematical questions and delving into the sciences behind coding and mathematics.<br/><br>📬 You can reach me at himanshunanda2002@gmail.com.<br/><br>🧑‍💻 I am currently working  on my skills in cybersecurity while polishing my knowledge in Machine Learning and DSA.<br/>
 
 
